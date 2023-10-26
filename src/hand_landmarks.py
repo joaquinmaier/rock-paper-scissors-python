@@ -1,5 +1,6 @@
 from enum import IntEnum
 
+# MCP = metacarpophalangeal joint
 class HandLandmarks(IntEnum):
     WRIST               = 0
     THUMB_TIP           = 4
